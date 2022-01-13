@@ -20,7 +20,7 @@
 - **baseline_svm.ipynb** : build an SVM model carefully folllowing the methods used in the baseline
 - **otherclassifiers.ipynb** : build other classification models using the same methods and cleaning processes
 - **scrape_and_evaluation_commentaries.ipynb** : scrape the live commentaries of a sample of football games from livescore.com and evaluate the performance of our model on this unseen dataset
-- **simple_bert_collab.ipynb** : build a BERT classification model using Google Collab
+- **bert_collab.ipynb** : build a BERT classification model using Google Collab
 - **sentiment_bert_collab.ipynb** : analyze if sentiment analysis could help detect main events using Google Collab
 - **grahics.ipynb** : build the graphics that will be presented in the research report
 
