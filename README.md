@@ -27,7 +27,7 @@
 <br />
 
 
- :link: <a  style="display: inline;"  href="http://35.232.26.227:8050/"> Website of the demo
+ :link: <a  style="display: inline;"  href="https://dash-models-commentary.herokuapp.com/"> Website of the demo
   
  :link: <a  style="display: inline;"  href="https://github.com/yanismiraoui/dash-models"> Github repository of the demo
   
