@@ -2,6 +2,11 @@
 :arrow_right: This repo regroups the code done to investigate how we can use multiple different Natural Language Processing techniques and methods in order to automatically recognize the main actions in sports events. The aim was to extract insights by analyzing live sport commentaries from different sources and by classifying these major actions.
 
 
+<br />
+<br />
+
+ :link: <a  style="display: inline;"  href="https://arxiv.org/abs/2307.10303"> Paper
+
 <h2 align="left"> DATA: :card_index_dividers: </h2>
 
 - **events.csv** : main data file used for our analysis
@@ -25,7 +30,6 @@
 - **grahics.ipynb** : build the graphics that will be presented in the research report
 
 <br />
-
 
  :link: <a  style="display: inline;"  href="https://dash-models-commentary.herokuapp.com/"> Website of the demo
   
